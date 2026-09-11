@@ -1,0 +1,27 @@
+{
+  "id": "",
+  "series_id": "",
+  "direction_status": "awaiting_photographic_reference",
+  "casting_id": "",
+  "casting_identifier": null,
+  "person_direction": "",
+  "photography": {
+    "reference_identifier": null,
+    "local_path": null,
+    "composition": "",
+    "camera": "",
+    "environment": "",
+    "exposure": "",
+    "light": "",
+    "contrast": "",
+    "color": "",
+    "focus": "",
+    "texture": ""
+  },
+  "unresolved_conflicts": [],
+  "local_adjustments": "",
+  "count": null,
+  "result_identifiers": [],
+  "reviews": [],
+  "user_approval": "unreviewed"
+}
