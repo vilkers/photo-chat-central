@@ -43,7 +43,9 @@ O julgamento visual dos resultados acontece no app (ou numa sessão com acesso a
 
 | 4 | 14/09 | images_generate | 3 versões partindo da selfie, ver `05` | 225 | pendente de inspeção do usuário |
 
-Saldo após a rodada 4: ~402 créditos.
+| 5 | 14/09 | images_generate | 4 desenhos de luz sobre a versão aprovada, ver `05` | 300 | pendente de inspeção do usuário |
+
+Saldo após a rodada 5: ~102 créditos — cerca de uma geração restante.
 
 **Aprendizado da rodada 3 → 4:** usar imagem gerada como base acumula drift de
 identidade. A base tem que ser sempre a selfie; o resultado aprovado entra como

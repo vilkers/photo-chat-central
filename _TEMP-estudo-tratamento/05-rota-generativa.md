@@ -195,3 +195,33 @@ Outras travas aplicadas nesta rodada:
 4C testa até onde dá para empurrar o analógico sem a pele perder o desenho.
 
 Nenhuma avaliada por mim — CDN bloqueado nesta sessão.
+
+---
+
+# Rodada 5 — quatro desenhos de luz sobre a versão aprovada
+
+Uma variável só: a luz. Mesma moldura (chest-up, 85mm, rua desfocada atrás), mesmo
+boné e camiseta, mesmo acting, mesmo tratamento analógico. Identidade ancorada na
+selfie; a versão aprovada entra apenas como referência de estilo.
+
+| V | Desenho de luz | Intenção | Creation |
+|---|---|---|---|
+| L1 | key suave a 45° pela esquerda, ligeiramente acima dos olhos; lado direito 1½ stop abaixo, sem fill | modelagem clássica de retrato — dá volume ao rosto redondo sem endurecer | `LwijFfYswO` |
+| L2 | contraluz baixa com rim no boné, na barba e no ombro; rebatedor claro à frente 2 stops abaixo | separa do fundo e acende a barba; halation suave nos rims | `mE1tM0ThJQ` |
+| L3 | sol duro alto pela esquerda, aba cortando a testa em diagonal, metade do rosto em sombra densa sem fill | a linguagem da ref do céu azul, mais campanha, mais gráfico | `Sy2g5KZUb8` |
+| L4 | golden hour rasante pela esquerda, sombra longa do nariz, fundo indo para azul-cinza | separação quente-frio entre sujeito e rua, leitura mais cinema | `1l4kCQlr4r` |
+
+**Custo: 300 créditos. Saldo após: ~102 — cerca de uma geração.**
+
+Nenhuma avaliada por mim — CDN bloqueado nesta sessão.
+
+## Como ler estas quatro
+
+A versão aprovada tem luz de sombra aberta: limpa, mas sem desenho. O problema de luz
+num rosto redondo com barba densa e aba de boné é que luz frontal achata o volume e a
+aba come os olhos. Cada teste ataca isso por um lado — L1 devolve volume, L2 devolve
+separação, L3 devolve drama gráfico, L4 devolve temperatura.
+
+L3 é a que mais arrisca: sombra dura sobre um olho pode fechar o olhar. L2 é a mais
+segura para peça de campanha, porque rim light em barba é leitura instantânea de
+fotografia real.
