@@ -22,9 +22,10 @@ papéis das referências, parâmetros reais e prompts. As imagens vivem no Magni
 |---|---|
 | `00-diagnostico-foto.md` | Leitura de direção de arte da foto original e o que trava o look de cinema |
 | `01-referencias-savee.md` | As 9 referências selecionadas e o papel exato de cada uma |
-| `02-matriz-testes-magnific.md` | Qual modelo/modo usar, parâmetros e custo em créditos |
+| `02-matriz-testes-magnific.md` | Rota de upscale/relight — arquivada, ver `05` |
 | `03-prompts-prontos.md` | Prompts para colar (Magnific creative, Nano Banana Pro, Freepik Spaces) |
 | `04-log-execucao.md` | Registro do que foi rodado e o veredito visual |
+| `05-rota-generativa.md` | **Rota vigente**: estudos gerados por Nano Banana Pro / Seedream / GPT 2 com as refs |
 
 ## Board Savee
 
