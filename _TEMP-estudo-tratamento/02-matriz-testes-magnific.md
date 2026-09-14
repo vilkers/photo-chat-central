@@ -132,3 +132,24 @@ multiplicar a textura. Invertendo, você amplia o artefato e depois pede para li
 O grade fica fora do Magnific de propósito. O Magnific é excelente em textura,
 resolução e luz; ele não é uma mesa de cor. Curva, matiz do céu e densidade de preto
 se resolvem melhor à mão, com as referências do bloco A3/B1 abertas ao lado.
+
+---
+
+## Anexo — comparativo de modelos TTI (custos simulados)
+
+Com referências na biblioteca, dá para rodar um comparativo honesto de "qual modelo
+aguenta reconstruir sem trocar a pessoa". Custos por imagem, 2k, 3:4, 1 referência:
+
+| Modelo | Créditos/imagem |
+|---|---|
+| Seedream 5 Pro | **100** (exato) |
+| Nano Banana Pro | **75** (exato) |
+
+Protocolo do comparativo, para ser comparação e não sorteio:
+- Mesmo prompt, mesma referência de imagem (a foto), mesma referência de estilo, 3:4, 2k.
+- 1 imagem por modelo. Variação de seed não resolve drift de identidade.
+- Critério único de aprovação: **sobrancelha, lábio, orelha e pupila inalterados.**
+  Beleza do resultado não conta se a fisionomia andou.
+
+Custo do comparativo: **175 créditos.** Somado à rodada identity-safe (~480–660),
+fica em ~655–835 de 2.152.
