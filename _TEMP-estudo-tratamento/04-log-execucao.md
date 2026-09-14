@@ -9,6 +9,9 @@
 - Matriz de testes Magnific com custos simulados reais (ver `02`).
 - Prompts prontos (ver `03`).
 
+**Rota alterada pelo usuário:** os estudos são gerados pelos modelos de imagem com
+as referências dele, não construídos por upscale. Ver `05-rota-generativa.md`.
+
 **Bloqueado**
 - A foto não pôde ser enviada ao Magnific a partir desta sessão: a política de egress
   do ambiente remoto nega conexão a `ak-data.magnific.com` (host de upload) e a
@@ -32,4 +35,6 @@ O julgamento visual dos resultados acontece no app (ou numa sessão com acesso a
 
 | # | Data | Ferramenta | Parâmetros | Créditos | Veredito |
 |---|---|---|---|---|---|
-| — | — | — | — | — | nenhuma rodada executada |
+| 1 | 14/09 | images_generate | 8 estudos, ver `05-rota-generativa.md` | 625 | pendente de inspeção do usuário |
+
+Saldo após a rodada 1: ~1.527 créditos.
