@@ -45,7 +45,10 @@ O julgamento visual dos resultados acontece no app (ou numa sessão com acesso a
 
 | 5 | 14/09 | images_generate | 4 desenhos de luz sobre a versão aprovada, ver `05` | 300 | pendente de inspeção do usuário |
 
-Saldo após a rodada 5: ~102 créditos — cerca de uma geração restante.
+| 6 | 14/09 | images_relight | key quente 45° esquerda + rim frio atrás, sobre a versão aprovada | 75 | pendente de inspeção do usuário |
+
+Saldo após a rodada 6: **27 créditos**. Créditos esgotados para esta fase.
+Tratamento e grão entregues como receita manual em `06-receita-analogica.md`.
 
 **Aprendizado da rodada 3 → 4:** usar imagem gerada como base acumula drift de
 identidade. A base tem que ser sempre a selfie; o resultado aprovado entra como

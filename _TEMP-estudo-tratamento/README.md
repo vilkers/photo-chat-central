@@ -26,6 +26,7 @@ papéis das referências, parâmetros reais e prompts. As imagens vivem no Magni
 | `03-prompts-prontos.md` | Prompts para colar (Magnific creative, Nano Banana Pro, Freepik Spaces) |
 | `04-log-execucao.md` | Registro do que foi rodado e o veredito visual |
 | `05-rota-generativa.md` | **Rota vigente**: estudos gerados por Nano Banana Pro / Seedream / GPT 2 com as refs |
+| `06-receita-analogica.md` | Receita de tratamento e grão para aplicar à mão, sem custo de crédito |
 
 ## Board Savee
 
