@@ -39,4 +39,6 @@ O julgamento visual dos resultados acontece no app (ou numa sessão com acesso a
 
 | 2 | 14/09 | images_generate | 5 versões analógicas + refação da V3, ver `05` | 450 | pendente de inspeção do usuário |
 
-Saldo após a rodada 2: ~1.077 créditos.
+| 3 | 14/09 | images_generate | 6 testes de acting e figurino, 2 por ref, ver `05` | 450 | pendente de inspeção do usuário |
+
+Saldo após a rodada 3: ~627 créditos.

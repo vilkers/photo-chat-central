@@ -127,3 +127,38 @@ créditos perdidos. Refeita corretamente em `4R0P5AX9Aa`; descartar a primeira.
 **Custo da rodada 2: 450 créditos** (375 + 75 da refação). Saldo após: ~1.077.
 
 **Nenhuma versão foi avaliada por mim** — CDN bloqueado nesta sessão.
+
+---
+
+# Rodada 3 — acting e figurino das refs
+
+Base trocada: a partir daqui a referência de imagem é a **V3 aprovada** (`4R0P5AX9Aa`),
+não a selfie original. Ela já tem geometria de 85mm, fundo limpo e pele honesta, então
+construir em cima dela encurta o caminho. Contrapartida registrada: é geração sobre
+geração, e o drift de identidade acumula.
+
+Estrutura do teste: 2 versões por ref, com uma variável isolada em cada par —
+**(a)** acting e figurino da ref com o boné mantido · **(b)** variação de acting sem
+boné, cabelo próprio à mostra.
+
+| Ref | V | Figurino | Acting | Luz | Creation |
+|---|---|---|---|---|---|
+| camisa azul | a | jersey de futebol azul estampado | ombros frontais, queixo baixo, olhar pesado na lente | sol alto duro, sombra diagonal cortando os olhos | `YMtn4DLWeC` |
+| camisa azul | b | idem, sem boné | corpo 3/4, cabeça voltando, olhar passando pela câmera | sol baixo rasante pela esquerda | `VXfT38gMMU` |
+| FILA verde | a | veludo verde com vivo contrastante | pego comendo, garfo na boca, olhos fugindo pro lado | luz ambiente interna, sem flash | `aFjvDklfSh` |
+| FILA verde | b | idem, sem boné | recostado, parado, encarando a lente sem pressa | ambiente interna, meia face em sombra | `9ZT4LcENYZ` |
+| veludo azul | a | jaqueta veludo azul clara com grade marinho | sentado na tampa da picape, mãos no bolso, olhar direto | flash frontal noturno, queda rápida pro preto | `DoEMZEzpcl` |
+| veludo azul | b | idem, sem boné | em pé, braços soltos, cabeça inclinada, olhar fora de quadro | poste por cima e por trás, sem flash | `O6YJ10Uynm` |
+
+**Custo: 450 créditos. Saldo após: ~627.**
+
+Nenhuma avaliada por mim — CDN bloqueado nesta sessão.
+
+## Fila pedida pelo usuário, ainda não executada
+
+1. Variações de luz sobre a V3 aprovada, deixando a luz do rosto mais interessante.
+2. Uma versão mais analógica da V3.
+3. Pesquisa de mais fotografias de referência.
+
+Com ~627 créditos cabem cerca de 8 gerações. Não cabem os três itens em volume
+confortável: vale decidir a divisão antes de disparar.
