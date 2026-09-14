@@ -41,4 +41,10 @@ O julgamento visual dos resultados acontece no app (ou numa sessão com acesso a
 
 | 3 | 14/09 | images_generate | 6 testes de acting e figurino, 2 por ref, ver `05` | 450 | pendente de inspeção do usuário |
 
-Saldo após a rodada 3: ~627 créditos.
+| 4 | 14/09 | images_generate | 3 versões partindo da selfie, ver `05` | 225 | pendente de inspeção do usuário |
+
+Saldo após a rodada 4: ~402 créditos.
+
+**Aprendizado da rodada 3 → 4:** usar imagem gerada como base acumula drift de
+identidade. A base tem que ser sempre a selfie; o resultado aprovado entra como
+referência de estilo.

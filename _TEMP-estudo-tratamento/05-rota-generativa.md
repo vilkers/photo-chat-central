@@ -162,3 +162,36 @@ Nenhuma avaliada por mim — CDN bloqueado nesta sessão.
 
 Com ~627 créditos cabem cerca de 8 gerações. Não cabem os três itens em volume
 confortável: vale decidir a divisão antes de disparar.
+
+---
+
+# Rodada 4 — volta à selfie como base
+
+Correção de rota pedida pelo usuário: as imagens da rodada 3 o descaracterizaram.
+A causa mais provável está registrada acima — a partir da rodada 3 a base virou uma
+imagem gerada, e o desvio de identidade acumulou geração sobre geração.
+
+**Regra adotada daqui em diante: a referência de imagem é sempre a selfie original.**
+O que foi aprovado entra como referência de *estilo*, nunca como base.
+
+Outras travas aplicadas nesta rodada:
+- Sem troca de figurino. Boné e camiseta branca mantidos.
+- Acting essencialmente o da foto: olhar na lente, boca fechada.
+- Descrição de identidade específica em vez de genérica — rosto redondo, sobrancelhas
+  escuras e cheias, espaçamento dos olhos, formato da barba e do bigode, septo, argola.
+  Nomear traço a traço segura mais do que pedir "mesma pessoa".
+- Céu azul limpo no fundo, sem pessoas, sem fiação, sem prédios.
+- Render como 85mm, que é o que tira a cara de foto de braço.
+
+| V | Craft vindo de | Grade | Creation |
+|---|---|---|---|
+| 4A | referência de estilo = a V3 aprovada | o mesmo tratamento que funcionou, aplicado sobre a selfie | `9ZT4sFONYZ` |
+| 4B | referência de estilo = a ref do céu azul | grade da própria referência, 85mm descrito no prompt | `Tda03O1VNR` |
+| 4C | referência de estilo = a V3 aprovada | negativo puxado, grão pronunciado, halation de scan | `0evciyeTfW` |
+
+**Custo: 225 créditos. Saldo após: ~402.**
+
+4A e 4B isolam de onde vem o craft: do resultado aprovado ou da referência original.
+4C testa até onde dá para empurrar o analógico sem a pele perder o desenho.
+
+Nenhuma avaliada por mim — CDN bloqueado nesta sessão.
