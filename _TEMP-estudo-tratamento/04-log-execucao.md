@@ -37,4 +37,6 @@ O julgamento visual dos resultados acontece no app (ou numa sessão com acesso a
 |---|---|---|---|---|---|
 | 1 | 14/09 | images_generate | 8 estudos, ver `05-rota-generativa.md` | 625 | pendente de inspeção do usuário |
 
-Saldo após a rodada 1: ~1.527 créditos.
+| 2 | 14/09 | images_generate | 5 versões analógicas + refação da V3, ver `05` | 450 | pendente de inspeção do usuário |
+
+Saldo após a rodada 2: ~1.077 créditos.

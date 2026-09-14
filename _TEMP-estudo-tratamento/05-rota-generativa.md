@@ -94,3 +94,36 @@ Reconstrução generativa sobre rosto real tem drift de identidade por natureza 
 modelo reconstrói a partir do entendimento dele de rosto, e a semelhança escorre
 primeiro em orelha, dente e desenho do olho. O critério acima existe para medir isso.
 Decisão do usuário, com o risco declarado.
+
+---
+
+# Rodada 2 — manipulação liberada, 5 versões analógicas
+
+Escopo ampliado pelo usuário: pode redesenhar luz, cor e textura, ajustar o acting e
+limpar o fundo. A identidade continua travada (rosto, barba, piercing, brinco, boné,
+camiseta); o que ficou livre foi a direção da cena.
+
+Todas Nano Banana Pro, 2k, 3:4, 1 imagem, foto-base como referência de imagem + 1 ref
+do usuário como estilo. Todas com a mesma limpeza de fundo: **sem outras pessoas,
+sem fiação aérea**, rua simplificada e subordinada ao sujeito.
+
+| V | Direção | Acting | Luz | Filme | Ref de estilo | Creation |
+|---|---|---|---|---|---|---|
+| V1 | sol duro frontal | queixo baixo, olhar firme na lente | sol de meio-dia frente-esquerda, céu como fill | Portra 400 | camisa azul / céu | `DoEM4sapcl` |
+| V2 | contraluz de fim de tarde | 3/4, olhar fora de quadro, queixo alto | rim quente por trás do ombro direito, fill frio do céu | Ektachrome | perfil dourado | `JNn7QmhOq4` |
+| V3 | sombra aberta, casting frame | frontal, sério, cabeça nivelada, imóvel | open shade suave pela esquerda, sem sol direto | Pro 400H | veludo azul | `4R0P5AX9Aa` |
+| V4 | flash direto de dia | pego no meio do gesto, lábios entreabertos | flash on-camera, sombra recortada atrás | Gold 200 puxado | FILA verde | `Sy2gfv2Ub8` |
+| V5 | luz rasante lateral | cabeça à esquerda, olhar voltando de lado | raking light baixo, metade do rosto em sombra densa | Portra 800 puxado | capuz laranja | `3zpirrNREY` |
+
+**Variável deliberada:** V2 e V3 pedem render "como se fosse 85mm". É a tentativa de
+corrigir a distorção de selfie — o maior afastamento entre a foto original e as refs,
+que são todas de lente longa. V1, V4 e V5 ficaram na geometria original, então o par
+V1 × V3 mostra o efeito isolado da lente.
+
+**Erro e correção:** a primeira V3 (`hurmzR1vqL`) foi disparada sem a foto-base — a
+referência entrou como imagem principal, então o resultado não é o sujeito. 75
+créditos perdidos. Refeita corretamente em `4R0P5AX9Aa`; descartar a primeira.
+
+**Custo da rodada 2: 450 créditos** (375 + 75 da refação). Saldo após: ~1.077.
+
+**Nenhuma versão foi avaliada por mim** — CDN bloqueado nesta sessão.
